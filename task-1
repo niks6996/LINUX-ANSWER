@@ -1,0 +1,7 @@
+timedatectl
+
+timedatectl list-timezones
+
+sudo timedatectl set-timezone <your_time_zone>
+
+timedatectl
