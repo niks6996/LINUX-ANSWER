@@ -1,0 +1,5 @@
+PASSWORD-LESS-SSH
+
+login in source machine
+  ssh-keygen
+  ssh-copy-id (destination-username)@(destination-ip-address)
