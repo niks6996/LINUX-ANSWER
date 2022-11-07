@@ -1,0 +1,3 @@
+sudo sed -i 's/String/Torpedo/g' /root/nautilus.xml
+
+-i used for String or string >> it dosen't care of upeercase or lowercase , it just focus on word
