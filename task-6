@@ -1,0 +1,4 @@
+sudo sed '/\<copyright\>/d' /home/BSD.txt
+
+
+sudo sed 's/\bthe\b/is/g' /home/BSD.txt
